@@ -54,3 +54,23 @@ Desde la raíz del proyecto:
 ```
 
 El APK de desarrollo queda en `app/build/outputs/apk/debug/app-debug.apk`.
+
+## Capturas de pantalla
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/capturas/01-inicio.png" alt="Menú principal" width="360"><br><sub><b>Menú principal</b></sub></td>
+    <td align="center"><img src="docs/capturas/02-agregar-carton.png" alt="Agregar un cartón" width="360"><br><sub><b>Agregar un cartón</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/capturas/03-agregar-por-foto.png" alt="Agregar cartón por foto" width="360"><br><sub><b>Agregar por foto</b></sub></td>
+    <td align="center"><img src="docs/capturas/04-gestionar.png" alt="Gestionar cartones" width="360"><br><sub><b>Gestionar cartones</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/capturas/05-partida.png" alt="Partida de bingo" width="360"><br><sub><b>Partida en curso</b></sub></td>
+    <td align="center"><img src="docs/capturas/06-microfono.png" alt="Reconocimiento por micrófono" width="360"><br><sub><b>Reconocimiento por micrófono</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="docs/capturas/07-ganador.png" alt="Aviso de cartón ganador" width="360"><br><sub><b>Aviso de ganador</b></sub></td>
+  </tr>
+</table>
